@@ -1,0 +1,54 @@
+3D Objects/
+AppData/
+Application Data@
+Contacts/
+Cookies@
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+kit19/
+kms19/
+Links/
+Local Settings@
+MicrosoftEdgeBackups/
+mm18/
+MM19_2/
+Music/
+My Documents@
+NetHood@
+nodestart/
+ntuser.dat
+ntuser.dat.log1
+ntuser.dat.log2
+ntuser.dat{0943bc93-e78a-11ea-8dff-4889e78ba668}.TM.blf
+ntuser.dat{0943bc93-e78a-11ea-8dff-4889e78ba668}.TMContainer00000000000000000001.regtrans-ms
+ntuser.dat{0943bc93-e78a-11ea-8dff-4889e78ba668}.TMContainer00000000000000000002.regtrans-ms
+ntuser.dat{19ce3169-e6a5-11ea-8dff-4889e78ba665}.TM.blf
+ntuser.dat{19ce3169-e6a5-11ea-8dff-4889e78ba665}.TMContainer00000000000000000001.regtrans-ms
+ntuser.dat{19ce3169-e6a5-11ea-8dff-4889e78ba665}.TMContainer00000000000000000002.regtrans-ms
+NTUSER.DAT{799aa395-6225-11e9-8deb-00155d000a9c}.TM.blf
+NTUSER.DAT{799aa395-6225-11e9-8deb-00155d000a9c}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{799aa395-6225-11e9-8deb-00155d000a9c}.TMContainer00000000000000000002.regtrans-ms
+ntuser.dat{e4761408-e6a5-11ea-8dff-4889e78ba668}.TM.blf
+ntuser.dat{e4761408-e6a5-11ea-8dff-4889e78ba668}.TMContainer00000000000000000001.regtrans-ms
+ntuser.dat{e4761408-e6a5-11ea-8dff-4889e78ba668}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+ntuser.pol
+OneDrive/
+Pictures/
+PrintHood@
+ps_urok1/
+ps-practice-28/
+Recent@
+Saved Games/
+Searches/
+SendTo@
+source/
+Start Menu@
+Templates@
+Videos/
+VirtualBox VMs/
+vm19/
+world.sql
